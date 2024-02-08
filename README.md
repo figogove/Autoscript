@@ -33,6 +33,7 @@ wget -q https://raw.githubusercontent.com/figogove/Autoscript/GM/update.sh && ch
 - User Details Akun
 - Auto delete expired
 - Auto reboot vps server
+- Multi path
 
 ## PORT INFO
 ```
